@@ -16,5 +16,5 @@
   - Race condition on concurrent API calls (https://github.com/Jigsaw-Code/outline-server/pull/995)
 - Upgrades (https://github.com/Jigsaw-Code/outline-server/pull/1211)
   - Base image to `node:16.18.0-alpine3.16`
-  - outline-ss-server from 1.3.5 to [1.4.0](https://github.com/Jigsaw-Code/outline-ss-server/releases/tag/v1.4.0)
+  - outline-ss-server from 1.3.5 to [1.4.0](https://github.com/perpointt/outline-ss-server/releases/tag/v1.4.0)
   - Prometheus from 2.33.5 to [2.37.1](https://github.com/prometheus/prometheus/releases/tag/v2.37.1)
